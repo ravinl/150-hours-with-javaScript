@@ -1,1 +1,1 @@
-# 150-days-with-javaScript
+# 150-hours-with-javaScript
